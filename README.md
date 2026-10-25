@@ -224,18 +224,6 @@ Hệ thống Data Center tại Trụ sở chính được thiết kế theo cấ
 
 ---
 
-## 🗂️ Cấu trúc Thư mục Dự án
-
-```
-Enterprise Multi-Branch Network Design/
-├── README.md                          # Tài liệu giới thiệu tổng quan đồ án (File này)
-├── An.md                              # Tài liệu tóm tắt phác thảo ý tưởng thiết kế
-├── vanduccongminh_23162056.docx       # Thuyết minh báo cáo đồ án đầy đủ (Word Document)
-└── vanduccongminh_23162056.pdf        # Bản in hoàn chỉnh có chữ ký và sơ đồ đồ án (PDF - 52 trang)
-```
-
----
-
 ## 👨‍💻 Tác giả & Thông tin Liên hệ
 
 - **Tác giả:** Vạn Đức Công Minh
